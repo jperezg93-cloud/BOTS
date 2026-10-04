@@ -1,37 +1,29 @@
 # BOTS
 
-Repositorio público para compartir recursos, archivos y materiales descargables.
+Repositorio para almacenamiento de archivos multimedia.
 
 ## Descripción
 
-BOTS es un espacio organizado para publicar contenido que quieras compartir con otras personas de forma rápida y accesible. Aquí podrás guardar archivos por categoría y mantener todo ordenado.
+Este repositorio está pensado para guardar y compartir archivos de forma simple: imágenes, audio, videos, documentos y otros recursos. La gente puede entrar al repositorio, navegar por las carpetas y descargar lo que necesite.
 
 ## Estructura
 
 - `images/` — Imágenes y gráficos
 - `audio/` — Archivos de audio
-- `videos/` — Archivos de video
-- `documents/` — Documentos y archivos de texto
-- `files/` — Otros archivos y recursos
+- `videos/` — Videos
+- `documents/` — Documentos y textos
+- `files/` — Archivos varios
 - `assets/` — Recursos visuales y materiales generales
 
-## Cómo acceder
+## Cómo usarlo
 
-Puedes navegar por las carpetas desde GitHub o descargar el contenido directamente.
-
-Para clonar el repositorio:
-
-```bash
-git clone https://github.com/jperezg93-cloud/BOTS.git
-```
+1. Sube los archivos a la carpeta correspondiente.
+2. Desde GitHub o la plataforma donde esté alojado, la gente puede abrir el archivo y descargarlo.
+3. Mantén el contenido organizado por tipo.
 
 ## Importante
 
-Todos los recursos publicados aquí deben ser de uso autorizado y no deben contener información privada ni sensible.
-
-## Licencia
-
-Verifica la licencia o permiso de uso antes de reutilizar cualquier archivo.
+Solo sube archivos autorizados y evita incluir información privada o sensible.
 
 ---
 
