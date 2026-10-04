@@ -1,0 +1,18 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+*.tmp
+*.temp
+.~*
+
+# Archivos de sistema
+.env
+.env.local
